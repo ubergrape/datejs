@@ -2,7 +2,7 @@
   "name": "datejs"
   "repo": "ubergrape/datejs",
   "version": "1.0.0",
-  "description": "DateJS is the most full-featured, internationalized, open-source JavaScript Date Library.",
+  "description": "JavaScript Date Library",
   "keywords": [],
   "main": "build/development/date.js",
   "scripts": [
