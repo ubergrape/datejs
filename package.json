@@ -45,7 +45,7 @@
       "email": "gregory@wild-smith.com"
     }
   ],
-  "main": "./index.js",
+  "main": "build/development/date.js",
   "originator": "Geoffrey McGill",
   "license": "MIT",
   "readmeFilename": "README.md"
